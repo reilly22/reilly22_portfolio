@@ -40,19 +40,8 @@ disqusShortname = ""
   # Navigation Section
   [params.navigation]
     title = "Matt Reilly"
-    subtitle = "Industrial Engineering, Data Analytics"
-    menu = "Menu"
     url = "reilly22.github.io"
-    # Optional logo as brand stored in img/
-    # logo = "logo.png"
-
-    [[params.navigation.links]]
-      name = "Home"
-      url = "#"
-
-    [[params.navigation.links]]
-      name = "Blog"
-      url = "blogs"
+    subtitle = "Industrial Engineering, Data Analytics"
 
     # Add custom links here by uncommenting code below. To remove links just delete
     # the [[params.navigation.links]] map associated with that link. Copy and paste
