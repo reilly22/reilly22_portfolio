@@ -119,7 +119,6 @@ disqusShortname = ""
     [[params.contact.phone]]
     title = "Phone"
     phone = "(630) 607-2245 "
-"
 
   # Footer section
   [params.footer]
