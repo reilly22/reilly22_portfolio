@@ -42,7 +42,7 @@ disqusShortname = ""
     title = "Matt Reilly"
     subtitle = "Industrial Engineering, Data Analytics"
     menu = "Menu"
-    url = 'reilly22.github.io'
+    url = "reilly22.github.io"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
@@ -138,5 +138,5 @@ disqusShortname = ""
 
     [[params.footer.social]]
       icon = "fa-linkedin"
-      url= "https://www.linkedin.com/in/reilly22/"
+      url= "https://www.linkedin.com/in/mattreilly22/"
       label = "LinkedIn"
